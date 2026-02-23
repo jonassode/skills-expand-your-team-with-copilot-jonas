@@ -166,13 +166,13 @@ initial_activities = {
     },
     "Manga Maniacs": {
         "description": "Dive into epic adventures, heartwarming friendships, and legendary battles! Discover the captivating world of Japanese manga, from action-packed shonen to magical girl transformations. Join fellow otaku to discuss your favorite series, share recommendations, and unleash your inner manga artist!",
-        "schedule": "Tuesdays, 7:00 PM - 9:00 PM",
+        "schedule": "Tuesdays, 5:00 PM - 7:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "21:00"
+            "start_time": "17:00",
+            "end_time": "19:00"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     }
 }
